@@ -1,0 +1,24 @@
+{
+  "name": "file_search_engine",
+  "version": "0.0.1",
+  "description": "FileSearchEngine to search through files on the filesystem",
+  "main": "src/main.js",
+  "keywords": [
+    "file",
+    "search",
+    "filesystem"
+  ],
+  "author": "Stephan Meijer <me@stephanmeijer.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "coffeedoctest": "^0.5.0",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-iced": "0.0.3",
+    "gulp-iced-coffee": "^1.2.1",
+    "gutil": "^1.6.4"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
